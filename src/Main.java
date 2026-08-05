@@ -11,8 +11,6 @@ public class Main{
         rentalSystem.addcar(car3);
         rentalSystem.menu();
 
-
-
     }
 }
 

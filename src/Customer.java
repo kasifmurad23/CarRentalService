@@ -6,7 +6,6 @@ class Customer {
     private String Address;
     private String DrivingLicense;
 
-
     public Customer(String customerId, String name, String phoneNo, String email, String address, String drivingLicense) {
         CustomerId = customerId;
         Name = name;

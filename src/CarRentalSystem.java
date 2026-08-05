@@ -6,7 +6,6 @@ class CarRentalSystem {
     private ArrayList<Rental> rentals;
 
     public CarRentalSystem() {
-
         cars = new ArrayList<>();
         customers = new ArrayList<>();
         rentals = new ArrayList<>();

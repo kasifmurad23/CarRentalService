@@ -13,7 +13,6 @@
          isAvailable = true;
 
      }
-
      public String getCarid() {
          return Carid;
      }

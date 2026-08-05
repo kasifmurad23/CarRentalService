@@ -10,7 +10,6 @@ class Rental {
         this.NoOfDays=NoOfDays;
 
     }
-
     public Car getCar() {
         return car;
     }
