@@ -20,11 +20,7 @@ class Rental {
 
     public int getNoOfDays() {
         return NoOfDays;
-    }
+    }}
 
-    public double calculatebill(){
-        return NoOfDays*car.getBasePrice();
-    }
 
-}
 
